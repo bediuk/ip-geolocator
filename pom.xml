@@ -186,4 +186,10 @@
             </plugin>
         </plugins>
     </reporting>
+    <distributionManagement>
+        <site>
+            <id>shrek</id>
+            <url>scp://bediuk@shrek.unideb.hu:2222/home/bediuk/public_html/${project.artifactId}</url>
+        </site>
+    </distributionManagement>
 </project>
