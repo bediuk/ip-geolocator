@@ -205,4 +205,5 @@
             <url>scp://bediuk@shrek.unideb.hu:2222/home/bediuk/public_html/${project.artifactId}</url>
         </site>
     </distributionManagement>
+<!--    <pluginRepositories></pluginRepositories>-->
 </project>
